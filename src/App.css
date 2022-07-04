@@ -13,6 +13,16 @@
   }
 }
 
+.App-logo1 {
+  margin-top: 20px;
+  height: 40vmin;
+  pointer-events: fill;
+}
+
+.App-layout {
+  flex-direction: row;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -38,10 +48,10 @@
 .App-explanationBody {
   color: wheat;
   font-size: 11px;
-  margin-left: 200px;
-  margin-right: 200px;
+  max-width: 500px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
-
 
 @keyframes App-logo-spin {
   from {
