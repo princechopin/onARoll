@@ -38,14 +38,15 @@
   color: #61dafb;
 }
 
-.App-explanation {
+.App-title {
   color: yellowgreen;
   font-size: 13px;
+  margin-top: 20px;
   margin-left: 200px;
   margin-right: 200px;
 }
 
-.App-explanationBody {
+.App-explanation {
   color: wheat;
   font-size: 11px;
   max-width: 500px;
